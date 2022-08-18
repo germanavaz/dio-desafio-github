@@ -1,2 +1,6 @@
-Link para download do Git: 
+
 O Git Bash é um terminal extendido para otimizar o uso do Git
+
+git status 
+git add . - adiciona todos os arquivos no local 
+git commit -m "mensagem" - comitar com uma mensagem coerente
